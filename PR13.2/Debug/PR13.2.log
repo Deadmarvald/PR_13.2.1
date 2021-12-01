@@ -1,0 +1,6 @@
+﻿  Lab_13_2.cpp
+D:\Student\Volvenko Ivan IT-12\AP\PR13.2\PR13.2\Lab_13_2.cpp(43,3): warning C4101: viraz_2: неиспользованная локальная переменная
+D:\Student\Volvenko Ivan IT-12\AP\PR13.2\PR13.2\Lab_13_2.cpp(41,3): warning C4101: viraz_1: неиспользованная локальная переменная
+D:\Student\Volvenko Ivan IT-12\AP\PR13.2\PR13.2\Lab_13_2.cpp(38,3): warning C4101: max: неиспользованная локальная переменная
+D:\Student\Volvenko Ivan IT-12\AP\PR13.2\PR13.2\Lab_13_2.cpp(42,3): warning C4101: viraz_2_1: неиспользованная локальная переменная
+  PR13.2.vcxproj -> D:\Student\Volvenko Ivan IT-12\AP\PR13.2\Debug\PR13.2.exe
